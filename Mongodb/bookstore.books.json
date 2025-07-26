@@ -1,0 +1,116 @@
+[{
+  "_id": {
+    "$oid": "6885186ba5c63f9815eec4a9"
+  },
+  "title": "The Way of Kings",
+  "author": "Brandon Sanderson",
+  "rating": 9,
+  "pages": 400,
+  "genres": [
+    "fantasy"
+  ],
+  "reviews": [
+    {
+      "name": "Flo",
+      "body": "Great book!"
+    },
+    {
+      "name": "mario",
+      "body": "so so"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68851ce6a5c63f9815eec4aa"
+  },
+  "title": "The Light Fantastic",
+  "author": "Terry Pratchett",
+  "pages": 250,
+  "rating": 6,
+  "genres": [
+    "fantasy",
+    "magic"
+  ],
+  "reviews": [
+    {
+      "name": "luigi",
+      "body": "it was pretty good"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68851cf3a5c63f9815eec4ab"
+  },
+  "title": "The Hobbit",
+  "pages": 310,
+  "rating": 9,
+  "genres": [
+    "fantasy",
+    "adventure"
+  ],
+  "reviews": [
+    {
+      "name": "alice",
+      "body": "An absolute classic."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68851d33a5c63f9815eec4ac"
+  },
+  "title": "1984",
+  "author": "George Orwell",
+  "pages": 328,
+  "rating": 8,
+  "genres": [
+    "dystopian",
+    "political fiction"
+  ],
+  "reviews": [
+    {
+      "name": "bob",
+      "body": "Chilling and thought-provoking."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68851e35a5c63f9815eec4ad"
+  },
+  "title": "The Name of the Wind",
+  "author": "Patrick Rothfuss",
+  "pages": 662,
+  "rating": 8,
+  "genres": [
+    "fantasy",
+    "adventure"
+  ],
+  "reviews": [
+    {
+      "name": "nina",
+      "body": "Beautiful storytelling"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68851eb4a5c63f9815eec4ae"
+  },
+  "title": "Dune",
+  "author": "Frank Herbert",
+  "pages": 412,
+  "rating": 9,
+  "genres": [
+    "science fiction",
+    "epic"
+  ],
+  "reviews": [
+    {
+      "name": "dave",
+      "body": "Intricate and mind-blowing."
+    }
+  ]
+}]
